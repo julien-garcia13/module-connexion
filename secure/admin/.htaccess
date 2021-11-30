@@ -1,6 +1,6 @@
 <FilesMatch "admin.php">
 AuthName "Page administration"
 AuthType Basic
-AuthUserFile "C:\wamp\www\travail\secure\admin\.htpasswd"
+AuthUserFile " // Ajoute ton chemin. secure\admin\.htpasswd"
 Require valid-user
 </FIlesMatch>
