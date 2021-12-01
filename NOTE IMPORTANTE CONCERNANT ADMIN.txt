@@ -1,0 +1,2 @@
+La page d'administration ne fonctionne pas sur Plesk, car Plesk à du mal avec Apache.
+Aucune anomalie dans le code, tu peux tester via un hébergeur local comme WAMP ou autre !
